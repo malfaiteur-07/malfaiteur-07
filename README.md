@@ -2,7 +2,32 @@
 
 <!--
 **malfaiteur-07/malfaiteur-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2026:
+  Goal: "Become a stronger software developer"
 
+  Learning:
+    - Python
+    - Data Structures
+    - Algorithms
+    - Web Development
+    - Git & GitHub
+
+  Building:
+    - Real-world web applications
+    - Management systems
+    - Programming projects
+
+  Exploring:
+    - AI
+    - Machine Learning
+    - Cloud Technologies
+    - Modern Software Engineering
+
+  Future:
+    - Computer Science Degree
+    - Software Engineering
+    - AI/ML
+    - Open Source
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
